@@ -4,7 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/césar-rodrigues-46b944238/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cesa_nrodrigues_/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CesaoW&theme=midnight-purple&show_icons=true)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CesaoW&theme=midnight-purple&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CesaroW&layout=compact)](https://github.com/CesaoW/github-readme-stats)
 
 
 ## Tecnologias que utilizo no meu dia 
@@ -18,4 +19,3 @@
 
 #### sou novato na programação e procuro novos aprendizados!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CesaroW&layout=compact)](https://github.com/CesaoW/github-readme-stats)
