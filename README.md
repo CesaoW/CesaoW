@@ -17,3 +17,5 @@
 </div><br>
 
 #### sou novato na programação e procuro novos aprendizados!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CesaroW&layout=compact)](https://github.com/CesaoW/github-readme-stats)
